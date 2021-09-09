@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dc418e4977e1c08458413cd7615e9725
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinPickup: {fileID: 8300000, guid: 2f65872cc896760428aa9da62b0ecc4f, type: 3}
+  - text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
