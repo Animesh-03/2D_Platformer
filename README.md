@@ -3,3 +3,7 @@ Features:
 2. Coins collection
 3. Tilemap based levels
 4. Flares to destroy tiles
+
+Controls:
+Standard WASD movement
+Aim and click to shoot Flare
